@@ -1,2 +1,2 @@
 # DrawingGUI
-A simple  program  for drawing simple graphics
+A simple  program  for drawing simple graphics written in Java
